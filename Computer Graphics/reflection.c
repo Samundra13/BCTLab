@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<graphics.h>
 #include<stdlib.h>
-
+"ssssss"
 float x1,y1,x2,y2,x3,y3,m,b;
 
 float calcx(float x,int ch)
